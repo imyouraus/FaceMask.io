@@ -1,0 +1,9 @@
+body h1{
+     text-align: center;
+     font-family: 'Kanit', sans-serif;
+     background-color: antiquewhite;
+}
+body p{
+    font-family: 'Kanit', sans-serif;
+    font-size: 23px;
+}
